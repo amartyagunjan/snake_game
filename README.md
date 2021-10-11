@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+It is the classical nokia snake game made during learning stage.
+![image](https://user-images.githubusercontent.com/49498724/136797274-8fb64056-fac4-4e6b-a97b-150941e56c3c.png)
 
-This project is a starting point for a Flutter application.
+gesture controls are added to play the game.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/49498724/136797623-daa85358-910e-458c-848a-ef259f14201d.png)
